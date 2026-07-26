@@ -28,7 +28,7 @@ Job hunting and interview prep are fundamentally broken. Candidates blast resume
 * **Database & Auth:** Supabase (PostgreSQL)
 * **Hardware Integration:** WebRTC / HTML5 MediaDevices API (for live camera/mic feed)
 
-## 🚀 Getting Started
+## 🚀 Getting Started:
 
 Follow these steps to run the project locally for development or hackathon judging.
 
