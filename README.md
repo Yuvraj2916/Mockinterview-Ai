@@ -32,7 +32,7 @@ Job hunting and interview prep are fundamentally broken. Candidates blast resume
 
 Follow these steps to run the project locally for development or hackathon judging.
 
-### Prerequisites
+### Prerequisites:
 * Node.js (v18 or higher)
 * npm or pnpm
 * Supabase Account
