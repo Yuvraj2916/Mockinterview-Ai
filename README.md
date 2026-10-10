@@ -1,5 +1,5 @@
 # Mockinterview-Ai
-HireMind AI is an agentic AI-powered job search and mock interview platform that combines LinkedIn-style job tracking with adaptive, real-time AI interview simulation and performance analytics.  Built to help students, fresh graduates, and job switchers prepare for interviews with intelligent, personalized feedback
+HireMind AI is an agentic AI-powered job search and mock interview platform that combines LinkedIn-style job tracking with adaptive, real-time AI interview simulation and performance analytics.  Built to help students, fresh graduates, and job switchers prepare for interviews with intelligent, personalized feedback.
 # 🚀 HireMindAi
 
 > **Find Jobs. Ace Interviews. Get Hired.** > An all-in-one AI career platform combining a LinkedIn-style job board with real-time, camera-enabled AI mock interviews.
