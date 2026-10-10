@@ -21,7 +21,7 @@ Job hunting and interview prep are fundamentally broken. Candidates blast resume
 * **🔍 Integrated Job Board:** A sleek, LinkedIn-style job discovery page featuring advanced filtering and 1-click apply/mock-interview triggers.
 * **📊 Analytics Dashboard:** Track your application pipeline and view post-interview performance reports, highlighting weak areas (e.g., System Design vs. Behavioral) with actionable next steps.
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack:
 
 * **Frontend:** Next.js 14 (App Router), React, Tailwind CSS, shadcn/ui, Framer Motion
 * **Backend / AI:** Vercel AI SDK, OpenAI GPT-4o
