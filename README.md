@@ -14,7 +14,7 @@ Job hunting and interview prep are fundamentally broken. Candidates blast resume
 
 **HireMindAi** bridges the gap. We provide a seamless ecosystem where candidates can discover roles, optimize their resumes using AI, and—most importantly—practice for the exact job they are applying for using our **Live AI Video Interviewer**. The platform dynamically reads a candidate's uploaded resume—such as recognizing a machine learning project involving audio feature extraction—and generates highly specific, adaptive interview questions on the fly.
 
-## ✨ Core Features
+## ✨ Core Features:
 
 * **🎙️ Live AI Mock Interviews (The Killer Feature):** A real-time, camera-enabled interview environment. The AI dynamically adapts its questions based on your real-time responses and confidence levels.
 * **🧠 Smart Resume Hub:** Upload your PDF/DOCX. Our AI instantly parses it, extracts your technical skills into chips, generates a 1-line elevator pitch, and scores your match against specific job descriptions.
