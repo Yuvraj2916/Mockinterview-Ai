@@ -8,7 +8,7 @@ LINK FOR OUR WEBSITE - https://mockinterview-orcin.vercel.app/
 
 ---
 
-## 💡 The Vision
+## 💡 The Vision:
 
 Job hunting and interview prep are fundamentally broken. Candidates blast resumes into the void and step into technical interviews completely blind. 
 
