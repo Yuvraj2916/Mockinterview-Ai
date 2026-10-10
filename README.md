@@ -38,7 +38,7 @@ Follow these steps to run the project locally for development or hackathon judgi
 * Supabase Account
 * OpenAI API Key
 
-### Installation
+### Installation:
 
 1. **Clone the repository:**
    ```bash
