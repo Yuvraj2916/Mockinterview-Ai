@@ -17,7 +17,7 @@ Job hunting and interview prep are fundamentally broken. Candidates blast resume
 ## ✨ Core Features:
 
 * **🎙️ Live AI Mock Interviews (The Killer Feature):** A real-time, camera-enabled interview environment. The AI dynamically adapts its questions based on your real-time responses and confidence levels.
-* **🧠 Smart Resume Hub:** Upload your PDF/DOCX. Our AI instantly parses it, extracts your technical skills into chips, generates a 1-line elevator pitch, and scores your match against specific job descriptions.
+* **🧠 Smart Resume Hub:** Upload your PDF/DOCX. Our AI instantly parses it, extracts your technical skills into chips, generates a 1-line elevator pitch, and scores your match against specific job descriptions
 * **🔍 Integrated Job Board:** A sleek, LinkedIn-style job discovery page featuring advanced filtering and 1-click apply/mock-interview triggers.
 * **📊 Analytics Dashboard:** Track your application pipeline and view post-interview performance reports, highlighting weak areas (e.g., System Design vs. Behavioral) with actionable next steps.
 
